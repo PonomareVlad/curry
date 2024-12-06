@@ -11,10 +11,8 @@
     "url": "https://github.com/yurkimus/curry.git"
   },
 
-  "exports": {
     "types": "./source/index.d.ts",
-    "import": "./source/index.js"
-  },
+    "main": "./source/index.js",
 
   "dependencies": {
     "@yurkimus/types": "npm:@yurkimus/types@0.2.1"
